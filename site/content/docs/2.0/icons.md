@@ -2,7 +2,9 @@
 layout: docs
 title: Icons
 description: Guidance and suggestions for using icon libraries with Arizona Bootstrap.
-group: extend
+group: icons
+redirect_from: "/icons/"
+toc: true
 ---
 
 <div class="alert alert-warning" role="alert">
